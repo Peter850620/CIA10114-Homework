@@ -9,7 +9,7 @@ public class item7 {
 //		DDDD
 //		EEEEE
 //		FFFFFF
-//		char k = 65;
+//		int k = 65;
 		char k = 65;
 		for(int i = 1;i<=6;i++) {
 			for(int j = 1;j<=i;j++) {
