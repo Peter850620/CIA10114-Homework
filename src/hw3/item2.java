@@ -15,6 +15,7 @@ public class item2 {
 				System.out.println("猜錯囉");
 			} else {
 				System.out.println("答對了!答案就是" + ans);
+				break;
 			}
 		}
 	}
